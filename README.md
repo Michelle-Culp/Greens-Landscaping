@@ -2,7 +2,7 @@
 QA Testing Portfolio: Functional, UI, and API testing for the Greens Landscaping web application.
 
 Project Overview
-This repository contains the complete QA documentation for the Greens Landscaping web application, a front-end project built with HTML, CSS, Bootstrap, and JavaScript. Testing covered five main pages: Home, Services, Equipment, About, and Quote.
+This repository contains the complete QA documentation for the Greens Landscaping web application. I built the front-end of this site using HTML, CSS, Bootstrap, and JavaScript (utilizing AI/vibe coding) and then performed a full QA pass on my own code. Testing covered five main pages: Home, Services, Equipment, About, and Quote.
 
 Testing Scope & Tools Used
 Manual Testing: 30+ test cases executed covering UI layout, navigation routing, form validation, and responsive design.
